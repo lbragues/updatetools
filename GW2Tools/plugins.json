@@ -1,1 +1,20 @@
-{}
+{
+	"Plugin1":{
+		"name":"Plugin1",
+		"author":"s1",
+		"version":"0.0.1",
+		"minimum_version":"0.0.1",
+		"description":"Test Plugin",
+		"location":"c:\\Plugin1.dll",
+		"md5":""
+	},
+	"Plugin2":{
+		"name":"Plugin2",
+		"author":"s1",
+		"version":"0.0.1",
+		"minimum_version":"0.0.5",
+		"description":"Test Plugin2",
+		"location":"c:\\Plugin2.dll",
+		"md5":""
+	}
+}
